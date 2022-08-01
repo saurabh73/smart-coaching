@@ -28,23 +28,18 @@ features:
   - description: We facilitate doubt clearing and revision sessions for better learning
     icon: /images/uploads/revisions.svg
     title: Revision Sessions
-  - title: Spoken English
-    icon: /images/uploads/spoken_english.svg
-    description: We conduct spoken english classes for personality development
   - description: We have affordable fee structure with easy installments scheme
     icon: /images/uploads/save_money.svg
     title: Affordable Fees
+  - title: Spoken English
+    icon: /images/uploads/spoken_english.svg
+    description: We conduct spoken english classes for personality development
 faculties:
   - photo: /images/uploads/pp.jpeg
     name: Sumit Sinha
     qualification: M.Com, PGDCA, PGDM
     experience: 8+ years
     speciality: Commerce & Computers
-  - photo: /images/uploads/whatsapp-image-2020-03-08-at-3.27.09-pm.jpeg
-    name: Sandhya Dewangan
-    experience: 8+ years
-    speciality: Chemistry & Biology
-    qualification: M.Sc, M.A, B.Ed
 testimonials:
   - content: Frequent exams helped me feel constantly challenged to push myself to
       exceed what is expected.
@@ -63,9 +58,7 @@ gallery_Section:
   enable_gallery: false
 contact:
   phone_numbers:
-    - "9907900999"
-    - "9754495403"
-    - "8602032903"
+    - "8319290146"
   email_address: smartcoachingbsp@gmail.com
   address: |-
     Keshav Murra Bhatta Road,\
