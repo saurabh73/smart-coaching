@@ -11,23 +11,23 @@ intro:
     - "*New batches are starting from 1st August 2020*"
     - Faculty recruitment process is ongoing now (Freshers can also apply).
 forms:
-  - form_id: "158429846942866268"
-    button_title: Book Demo
   - form_id: "158429960265543213"
     button_title: Work with us
+  - form_id: "158429846942866268"
+    button_title: Book Demo
 features:
-  - description: We specialize in providing well qualified and experienced faculties
-    title: Experienced Faculty
-    icon: /images/uploads/teacher.svg
   - title: Frequent Tests
     icon: /images/uploads/exams.svg
     description: We frequently conduct tests to monitor student's progress and weak areas
-  - title: Performance Reports
-    icon: /images/uploads/test_reports.svg
-    description: We provide performance reports to help your parents track your progress
+  - description: We specialize in providing well qualified and experienced faculties
+    title: Experienced Faculty
+    icon: /images/uploads/teacher.svg
   - description: We facilitate doubt clearing and revision sessions for better learning
     icon: /images/uploads/revisions.svg
     title: Revision Sessions
+  - title: Performance Reports
+    icon: /images/uploads/test_reports.svg
+    description: We provide performance reports to help your parents track your progress
   - description: We have affordable fee structure with easy installments scheme
     icon: /images/uploads/save_money.svg
     title: Affordable Fees
