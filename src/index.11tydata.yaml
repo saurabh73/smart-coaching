@@ -16,7 +16,7 @@ forms:
   - form_id: "158429846942866268"
     button_title: Book Demo
 features:
-  - title: "Frequent "
+  - title: Frequent Tests
     icon: /images/uploads/exams.svg
     description: We frequently conduct tests to monitor student's progress and weak areas
   - description: We specialize in providing well qualified and experienced faculties
